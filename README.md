@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @mhussnainahmad
+- 👋 Hi, I’m @Asmaliaqat
+-
 - 👀 I’m interested in full Stack Web development with customn templates creation and django at backend
 - 🌱 I’m currently learning python django
 - 💞️ I’m looking to collaborate on web development projects
